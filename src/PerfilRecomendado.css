@@ -1,0 +1,25 @@
+.containerPerfil{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.imgPerfil img{
+    width: 64px;
+    border-radius: 50%;
+}
+
+.infoPerfil{
+    padding-left: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title{
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.arroba{
+    color: #999999;
+}
